@@ -1,5 +1,5 @@
 # apk_exe
 storage for old apk and exe files
 
-{: .box-warning}
-**Warning:** Never download apk-files from untrusted pages!
+## WARNING
+*Never download exe or apk-files from untrusted pages!*
